@@ -11,7 +11,7 @@ The structure of this project is as follows:
 │        ├── test.data
 │        └── train.data
 ├── README.md
-└──  main.py
+└──  perceptron.py
 ```
 
 The forward propagation algorithm is implemented in single_perceptron() and the training algorithm is implemented in 
